@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("Merhaba Dunya");
+    printf("Mer\thaba Dun\nya");
+    printf("Selam Halic");
     return 0;
 }
