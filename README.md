@@ -1,4 +1,4 @@
-C Programlama ilgi derslerde  i�ledi�im �rnekler
+C Programlama ilgi derslerde  işlediğim örnekleri burada paylaşacağım.
 
 Kaynaklar
 http://www1.gantep.edu.tr/~bingul/c/index.php
